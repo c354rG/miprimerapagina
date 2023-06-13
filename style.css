@@ -123,6 +123,10 @@ p {
     text-align: center;
   }
 
+  .greting {
+    text-align: center;
+  }
+  
   @media (max-width: 768px) {
     .column {
       flex: 100%;
